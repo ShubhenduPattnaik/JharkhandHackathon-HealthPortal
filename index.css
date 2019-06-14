@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: azure;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header{
+    margin: 0px;
+}
+
+.carousel-inner img{
+    height: 600px;
+    width: 100%;
+    padding: 70px;
+}
+
+#footer{
+    color: whitesmoke;
+    padding: 5px;
+    font-size: 20px;
+    height: 20px;
+}
